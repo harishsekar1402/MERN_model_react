@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.register{
+    background-color: rgb(0, 0, 0) !important;
+    padding: 10%;
+    color: white;
+    
+}
+h1{
+    font-size: 40px;
+}
+form{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 30px;
+    font-size: 20px;
+}
+input{
+    height: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button{
+    background-color: rgb(3, 127, 204);
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 20px;
+}
